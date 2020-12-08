@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Res/Image/IsenSplansh.png</file>
+        <file>Res/Image/bg.jpg</file>
+        <file>Res/Image/EyeTrack.jpg</file>
+        <file>Res/Image/bottom.png</file>
+        <file>Res/Image/left.png</file>
+        <file>Res/Image/right.png</file>
+        <file>Res/Image/top.png</file>
+        <file>Res/Image/logo.bmp</file>
+        <file>Res/Image/windowCaption.bmp</file>
+        <file>Res/Image/bluebj.png</file>
+        <file>Res/Image/flatwhite/add_bottom.png</file>
+        <file>Res/Image/flatwhite/add_left.png</file>
+        <file>Res/Image/flatwhite/add_right.png</file>
+        <file>Res/Image/flatwhite/add_top.png</file>
+        <file>Res/Image/flatwhite/branch_close.png</file>
+        <file>Res/Image/flatwhite/branch_open.png</file>
+        <file>Res/Image/flatwhite/calendar_nextmonth.png</file>
+        <file>Res/Image/flatwhite/calendar_prevmonth.png</file>
+        <file>Res/Image/flatwhite/checkbox_checked.png</file>
+        <file>Res/Image/flatwhite/checkbox_checked_disable.png</file>
+        <file>Res/Image/flatwhite/checkbox_parcial.png</file>
+        <file>Res/Image/flatwhite/checkbox_parcial_disable.png</file>
+        <file>Res/Image/flatwhite/checkbox_unchecked.png</file>
+        <file>Res/Image/flatwhite/checkbox_unchecked_disable.png</file>
+        <file>Res/Image/flatwhite/radiobutton_checked.png</file>
+        <file>Res/Image/flatwhite/radiobutton_checked_disable.png</file>
+        <file>Res/Image/flatwhite/radiobutton_unchecked.png</file>
+        <file>Res/Image/flatwhite/radiobutton_unchecked_disable.png</file>
+        <file>Res/Image/S_001.png</file>
+        <file>Res/Image/S_002.png</file>
+        <file>Res/Image/S_003.png</file>
+        <file>Res/Image/qt_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Res/qss/style.qss</file>
+        <file>Res/ttf/fontawesome-webfont.ttf</file>
+    </qresource>
+    <qresource prefix="/Qss"/>
+</RCC>
